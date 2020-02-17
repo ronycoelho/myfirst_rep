@@ -1,4 +1,7 @@
 # myfirst_rep
+
+This is a repo under construction...
+
 empty
 
 testing my first repository
